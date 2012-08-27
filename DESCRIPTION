@@ -1,0 +1,11 @@
+Package: KEGGdzPathwaysGEO
+Type: Package
+Title: KEGG Disease Datasets from GEO
+Version: 1.1.0
+Date: 2012-08-13
+Author: Gaurav Bhatti, Adi L. Tarca
+Maintainer: Gaurav Bhatti <gbhatti@med.wayne.edu>
+Description: This is a collection of 24 data sets for which the phenotype is a disease with a corresponding pathway in the KEGG database.This collection of datasets were used as gold standard in comparing gene set analysis methods by the PADOG package.
+Depends: R (>= 2.13.0)
+Imports: Biobase, BiocGenerics
+License: GPL-2
