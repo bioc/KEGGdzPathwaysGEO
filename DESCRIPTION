@@ -1,7 +1,7 @@
 Package: KEGGdzPathwaysGEO
 Type: Package
 Title: KEGG Disease Datasets from GEO
-Version: 1.5.0
+Version: 1.5.1
 Date: 2012-08-13
 Author: Gaurav Bhatti, Adi L. Tarca
 Maintainer: Gaurav Bhatti <gbhatti@med.wayne.edu>
@@ -9,3 +9,4 @@ Description: This is a collection of 24 data sets for which the phenotype is a d
 Depends: R (>= 2.13.0)
 Imports: Biobase, BiocGenerics
 License: GPL-2
+biocViews: MicroarrayData, GEO, ExperimentData
