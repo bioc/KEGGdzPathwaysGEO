@@ -1,7 +1,7 @@
 Package: KEGGdzPathwaysGEO
 Type: Package
 Title: KEGG Disease Datasets from GEO
-Version: 1.25.0
+Version: 1.26.0
 Date: 2012-08-13
 Author: Gaurav Bhatti, Adi L. Tarca
 Maintainer: Gaurav Bhatti <gbhatti@med.wayne.edu>
